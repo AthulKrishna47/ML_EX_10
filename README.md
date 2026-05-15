@@ -3,8 +3,10 @@
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
+Develop a Decision Tree Regression model to predict environmental and energy-related parameters such as Pollution Level (PM2.5), Temperature, and Energy Output (TSR) using weather and atmospheric conditions.
+The model uses features like humidity, pressure, wind speed, illumination, and CO₂ level to analyze and predict the target values accurately.
 
-
+Dataset - Weather.csv
 
 ## Equipments Required:
 1. Hardware – PCs
